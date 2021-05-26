@@ -1,0 +1,18 @@
+[2021-05-17 10:21:50.873] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2021-05-17 10:21:50.873] [remoteagent] [info] Extension host agent started.
+[2021-05-17 10:21:51.274] [remoteagent] [info] [::ffff:172.31.176.1][72bed50c][ManagementConnection] New connection established.
+[2021-05-17 10:21:51.279] [remoteagent] [info] [::ffff:172.31.176.1][1eb073a0][ExtensionHostConnection] New connection established.
+[2021-05-17 10:21:51.534] [remoteagent] [info] [::ffff:172.31.176.1][1eb073a0][ExtensionHostConnection] <168> Launched Extension Host Process.
+[2021-05-17 10:22:12.602] [remoteagent] [warning] [File Watcher (chokidar)] Error: Circular symlink detected: "/mnt/c/Users/melis/AppData/Local/Datos de programa" points to "/mnt/c/Users/melis/AppData/Local"
+[2021-05-17 10:28:38.471] [remoteagent] [info] [::ffff:172.31.176.1][72bed50c][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2021-05-17 10:28:39.517] [remoteagent] [info] [::ffff:172.31.176.1][1eb073a0][ExtensionHostConnection] <168> Extension Host Process exited with code: 0, signal: null.
+[2021-05-17 10:28:39.518] [remoteagent] [info] Last EH closed, waiting before shutting down

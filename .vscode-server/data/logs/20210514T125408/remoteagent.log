@@ -1,0 +1,29 @@
+[2021-05-14 12:54:08.448] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2021-05-14 12:54:08.448] [remoteagent] [info] Extension host agent started.
+[2021-05-14 12:54:08.618] [remoteagent] [info] [::ffff:172.26.80.1][d9033716][ManagementConnection] New connection established.
+[2021-05-14 12:54:08.621] [remoteagent] [info] [::ffff:172.26.80.1][ec334ec8][ExtensionHostConnection] New connection established.
+[2021-05-14 12:54:08.774] [remoteagent] [info] [::ffff:172.26.80.1][ec334ec8][ExtensionHostConnection] <235> Launched Extension Host Process.
+[2021-05-14 12:59:42.444] [remoteagent] [info] Installing extension: dbaeumer.vscode-eslint
+[2021-05-14 12:59:45.209] [remoteagent] [info] Downloaded extension: dbaeumer.vscode-eslint undefined
+[2021-05-14 12:59:45.284] [remoteagent] [info] Extracted extension to /home/chisthoper/.vscode-server/extensions/.f1618f98-e184-4c95-82d7-a9beaf3742a8: dbaeumer.vscode-eslint
+[2021-05-14 12:59:45.302] [remoteagent] [info] Renamed to /home/chisthoper/.vscode-server/extensions/dbaeumer.vscode-eslint-2.1.20
+[2021-05-14 12:59:45.306] [remoteagent] [info] Installation completed. dbaeumer.vscode-eslint
+[2021-05-14 12:59:45.317] [remoteagent] [info] Extensions installed successfully: dbaeumer.vscode-eslint
+[2021-05-14 13:00:49.984] [remoteagent] [info] Installing extension: misogi.ruby-rubocop
+[2021-05-14 13:00:52.367] [remoteagent] [info] Downloaded extension: misogi.ruby-rubocop undefined
+[2021-05-14 13:00:52.398] [remoteagent] [info] Extracted extension to /home/chisthoper/.vscode-server/extensions/.89eed560-7428-4e37-a705-e1ba47aa7b80: misogi.ruby-rubocop
+[2021-05-14 13:00:52.409] [remoteagent] [info] Renamed to /home/chisthoper/.vscode-server/extensions/misogi.ruby-rubocop-0.8.5
+[2021-05-14 13:00:52.410] [remoteagent] [info] Installation completed. misogi.ruby-rubocop
+[2021-05-14 13:00:52.419] [remoteagent] [info] Extensions installed successfully: misogi.ruby-rubocop
+[2021-05-14 13:05:46.852] [remoteagent] [info] [::ffff:172.26.80.1][d9033716][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2021-05-14 13:05:47.882] [remoteagent] [info] [::ffff:172.26.80.1][ec334ec8][ExtensionHostConnection] <235> Extension Host Process exited with code: 0, signal: null.
+[2021-05-14 13:05:47.883] [remoteagent] [info] Last EH closed, waiting before shutting down
